@@ -2,7 +2,7 @@
 Autonomous RC Car with Collision Detection | Arduino C++
 
 
-#Project Requirements
+# Project Requirements
 
 Create a fast moving, durable vehicle that can avoid objects. Tank bot includes the following features:
 
@@ -19,3 +19,6 @@ Create a fast moving, durable vehicle that can avoid objects. Tank bot includes 
 11. Shooting Sound
 12. LED Light
 13. Muzzle flash
+
+# (Presentation)[https://docs.google.com/presentation/d/1FrNVUKwlZj0PjR9jeO3BiaK4XPscyyun/edit?usp=sharing&ouid=106709469021935502421&rtpof=true&sd=true]
+# (Demo Video)[https://drive.google.com/file/d/1VKN287a0Rfsj2_krtdCAZeMnnBTBi-qB/view?usp=sharing]
