@@ -1,8 +1,9 @@
 # tank_bot Summary
 Autonomous RC Car with Collision Detection | Arduino C++
-    
-# [Presentation](https://docs.google.com/presentation/d/1FrNVUKwlZj0PjR9jeO3BiaK4XPscyyun/edit?usp=sharing&ouid=106709469021935502421&rtpof=true&sd=true)
-# [Demo Video](https://drive.google.com/file/d/1VKN287a0Rfsj2_krtdCAZeMnnBTBi-qB/view?usp=sharing)
+
+# Presentation
+* [PowerPoint Specs](https://docs.google.com/presentation/d/1FrNVUKwlZj0PjR9jeO3BiaK4XPscyyun/edit?usp=sharing&ouid=106709469021935502421&rtpof=true&sd=true)
+* [Demo Video](https://drive.google.com/file/d/1VKN287a0Rfsj2_krtdCAZeMnnBTBi-qB/view?usp=sharing)
 
 # CAD 
 ![image](https://github.com/user-attachments/assets/bfff7702-9e9c-4733-89c7-0767a0e3212c)
